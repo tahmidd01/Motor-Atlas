@@ -1,0 +1,335 @@
+[
+  {
+    "path": "/media/porsche-911-992-gt3-rs.webp",
+    "thumbnail": "/media/porsche-911-992-gt3-rs-thumb.webp",
+    "caption": "Reference photograph: Porsche 992 GT3 RS. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Porsche_992_GT3_RS_MYLE_Festival_2025_DSC_9586_(cropped).jpg",
+    "id": "porsche-911-992-gt3-rs-exterior",
+    "vehicleId": "porsche-911-992-gt3-rs"
+  },
+  {
+    "path": "/media/porsche-911-992-gt3-rs-gallery-1.webp",
+    "thumbnail": "/media/porsche-911-992-gt3-rs-gallery-1-thumb.webp",
+    "caption": "Reference photograph: Porsche 911 GT3 RS (992) rear view at Japan Mobility Show Kansai 2025. Pictured year or trim may differ.",
+    "type": "exterior",
+    "file": "File:Porsche_911_GT3_RS_(992)_rear_view_at_Japan_Mobility_Show_Kansai_2025.jpg",
+    "id": "porsche-911-992-gt3-rs-Porsche 911 GT3 RS (992) rear view at Japan Mobility Show Kansai 2025.jpg",
+    "vehicleId": "porsche-911-992-gt3-rs"
+  },
+  {
+    "path": "/media/porsche-911-930-turbo.webp",
+    "thumbnail": "/media/porsche-911-930-turbo-thumb.webp",
+    "caption": "Reference photograph: Porsche 930 Turbo. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Porsche_911_930_Turbo_4.jpg",
+    "id": "porsche-911-930-turbo-exterior",
+    "vehicleId": "porsche-911-930-turbo"
+  },
+  {
+    "path": "/media/ferrari-f40.webp",
+    "thumbnail": "/media/ferrari-f40-thumb.webp",
+    "caption": "Reference photograph: Ferrari F40. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Ferrari,_Techno-Classica_2018,_Essen_(IMG_9435).jpg",
+    "id": "ferrari-f40-exterior",
+    "vehicleId": "ferrari-f40"
+  },
+  {
+    "path": "/media/ferrari-f40-gallery-1.webp",
+    "thumbnail": "/media/ferrari-f40-gallery-1-thumb.webp",
+    "caption": "Reference photograph: 1990 Ferrari F40 0. Pictured year or trim may differ.",
+    "type": "exterior",
+    "file": "File:1990_Ferrari_F40_0.jpg",
+    "id": "ferrari-f40-1990 Ferrari F40 0.jpg",
+    "vehicleId": "ferrari-f40"
+  },
+  {
+    "path": "/media/ferrari-laferrari.webp",
+    "thumbnail": "/media/ferrari-laferrari-thumb.webp",
+    "caption": "Reference photograph: LaFerrari. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Ferrari_LaFerrari_at_Grand_Basel_2018_01.jpg",
+    "id": "ferrari-laferrari-exterior",
+    "vehicleId": "ferrari-laferrari"
+  },
+  {
+    "path": "/media/lamborghini-miura-p400.webp",
+    "thumbnail": "/media/lamborghini-miura-p400-thumb.webp",
+    "caption": "Reference photograph: Lamborghini Miura P400. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:1971_Lamborghini_Miura_P400_SV.jpg",
+    "id": "lamborghini-miura-p400-exterior",
+    "vehicleId": "lamborghini-miura-p400"
+  },
+  {
+    "path": "/media/lamborghini-countach-lp400.webp",
+    "thumbnail": "/media/lamborghini-countach-lp400-thumb.webp",
+    "caption": "Reference photograph: Lamborghini Countach LP400. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Lamborghini_Countach_LP400_Periscopio_(1976)_Auto_Zuerich_2021_IMG_0460.jpg",
+    "id": "lamborghini-countach-lp400-exterior",
+    "vehicleId": "lamborghini-countach-lp400"
+  },
+  {
+    "path": "/media/bmw-m3-e46.webp",
+    "thumbnail": "/media/bmw-m3-e46-thumb.webp",
+    "caption": "Reference photograph: BMW M3 E46 coupe. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:BMW_M3_coupe_E46.jpg",
+    "id": "bmw-m3-e46-exterior",
+    "vehicleId": "bmw-m3-e46"
+  },
+  {
+    "path": "/media/nissan-skyline-gtr-r34.webp",
+    "thumbnail": "/media/nissan-skyline-gtr-r34-thumb.webp",
+    "caption": "Reference photograph: Nissan Skyline GT-R R34. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:2001_Nissan_Skyline_GT-R_V-Spec_II_R34_(99828).jpg",
+    "id": "nissan-skyline-gtr-r34-exterior",
+    "vehicleId": "nissan-skyline-gtr-r34"
+  },
+  {
+    "path": "/media/nissan-skyline-gtr-r34-gallery-1.webp",
+    "thumbnail": "/media/nissan-skyline-gtr-r34-gallery-1-thumb.webp",
+    "caption": "Reference photograph: Nissan Skyline GT-R V-Spec II. Pictured year or trim may differ.",
+    "type": "exterior",
+    "file": "File:Nissan_Skyline_GT-R_V-Spec_II.jpg",
+    "id": "nissan-skyline-gtr-r34-Nissan Skyline GT-R V-Spec II.jpg",
+    "vehicleId": "nissan-skyline-gtr-r34"
+  },
+  {
+    "path": "/media/nissan-skyline-gtr-r32.webp",
+    "thumbnail": "/media/nissan-skyline-gtr-r32-thumb.webp",
+    "caption": "Reference photograph: Nissan Skyline GT-R R32. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Nissan_Skyline_GT-R_R32_(33539).jpg",
+    "id": "nissan-skyline-gtr-r32-exterior",
+    "vehicleId": "nissan-skyline-gtr-r32"
+  },
+  {
+    "path": "/media/toyota-supra-a80.webp",
+    "thumbnail": "/media/toyota-supra-a80-thumb.webp",
+    "caption": "Reference photograph: Toyota Supra A80. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:TOYOTA_SUPRA_(A80)_HONG_KONG.jpg",
+    "id": "toyota-supra-a80-exterior",
+    "vehicleId": "toyota-supra-a80"
+  },
+  {
+    "path": "/media/lexus-lfa.webp",
+    "thumbnail": "/media/lexus-lfa-thumb.webp",
+    "caption": "Reference photograph: Lexus LFA. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:2011_Lexus_LFA_White.jpg",
+    "id": "lexus-lfa-exterior",
+    "vehicleId": "lexus-lfa"
+  },
+  {
+    "path": "/media/ford-gt-2005.webp",
+    "thumbnail": "/media/ford-gt-2005-thumb.webp",
+    "caption": "Reference photograph: Ford GT 2005. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:2005_Ford_GT_7.jpg",
+    "id": "ford-gt-2005-exterior",
+    "vehicleId": "ford-gt-2005"
+  },
+  {
+    "path": "/media/chevrolet-corvette-c8.webp",
+    "thumbnail": "/media/chevrolet-corvette-c8-thumb.webp",
+    "caption": "Reference photograph: Chevrolet Corvette C8 Stingray. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Chevrolet_Corvette_Stingray_C8.jpg",
+    "id": "chevrolet-corvette-c8-exterior",
+    "vehicleId": "chevrolet-corvette-c8"
+  },
+  {
+    "path": "/media/dodge-challenger-hellcat.webp",
+    "thumbnail": "/media/dodge-challenger-hellcat-thumb.webp",
+    "caption": "Reference photograph: Dodge Challenger SRT Hellcat. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Dodge_Challenger_SRT_Hellcat_2015-20180909-RM-171853.jpg",
+    "id": "dodge-challenger-hellcat-exterior",
+    "vehicleId": "dodge-challenger-hellcat"
+  },
+  {
+    "path": "/media/rivian-r1t.webp",
+    "thumbnail": "/media/rivian-r1t-thumb.webp",
+    "caption": "Reference photograph: Rivian R1T. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Rivian-r1t-2021.jpg",
+    "id": "rivian-r1t-exterior",
+    "vehicleId": "rivian-r1t"
+  },
+  {
+    "path": "/media/aston-martin-db5.webp",
+    "thumbnail": "/media/aston-martin-db5-thumb.webp",
+    "caption": "Reference photograph: Aston Martin DB5. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Nottingham_Autokarna_MMB_22_Aston_Martin_DB5.jpg",
+    "id": "aston-martin-db5-exterior",
+    "vehicleId": "aston-martin-db5"
+  },
+  {
+    "path": "/media/bugatti-chiron.webp",
+    "thumbnail": "/media/bugatti-chiron-thumb.webp",
+    "caption": "Reference photograph: Bugatti Chiron. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Bugatti_Chiron_2017.jpg",
+    "id": "bugatti-chiron-exterior",
+    "vehicleId": "bugatti-chiron"
+  },
+  {
+    "path": "/media/renault-5-turbo.webp",
+    "thumbnail": "/media/renault-5-turbo-thumb.webp",
+    "caption": "Reference photograph: Renault 5 Turbo. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Nationale_oldtimerdag_Zandvoort_2010,_1981_RENAULT_5_TURBO,_JH-VZ-86_pic2.JPG",
+    "id": "renault-5-turbo-exterior",
+    "vehicleId": "renault-5-turbo"
+  },
+  {
+    "path": "/media/volvo-p1800.webp",
+    "thumbnail": "/media/volvo-p1800-thumb.webp",
+    "caption": "Reference photograph: Volvo P1800. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Volvo_P1800_Coupe_(1964)_Classic-Gala_2021_1X7A0260.jpg",
+    "id": "volvo-p1800-exterior",
+    "vehicleId": "volvo-p1800"
+  },
+  {
+    "path": "/media/koenigsegg-jesko.webp",
+    "thumbnail": "/media/koenigsegg-jesko-thumb.webp",
+    "caption": "Reference photograph: Koenigsegg Jesko Attack. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:2024_Koenigsegg_Jesko_Attack_4.jpg",
+    "id": "koenigsegg-jesko-exterior",
+    "vehicleId": "koenigsegg-jesko"
+  },
+  {
+    "path": "/media/byd-seal.webp",
+    "thumbnail": "/media/byd-seal-thumb.webp",
+    "caption": "Reference photograph: BYD Seal. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:BYD_Seal_IAA_2023_1X7A0371.jpg",
+    "id": "byd-seal-exterior",
+    "vehicleId": "byd-seal"
+  },
+  {
+    "path": "/media/mercedes-300sl-w198.webp",
+    "thumbnail": "/media/mercedes-300sl-w198-thumb.webp",
+    "caption": "Reference photograph: Mercedes-Benz 300 SL Gullwing. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Mercedes-Benz_300-SL-Gullwing_Front-view.JPG",
+    "id": "mercedes-300sl-w198-exterior",
+    "vehicleId": "mercedes-300sl-w198"
+  },
+  {
+    "path": "/media/mazda-rx7-fd.webp",
+    "thumbnail": "/media/mazda-rx7-fd-thumb.webp",
+    "caption": "Reference photograph: Mazda RX-7 FD. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:JDM-Spec_Mazda_RX-7_FD_--_Rear.JPG",
+    "id": "mazda-rx7-fd-exterior",
+    "vehicleId": "mazda-rx7-fd"
+  },
+  {
+    "path": "/media/ford-model-t.webp",
+    "thumbnail": "/media/ford-model-t-thumb.webp",
+    "caption": "Reference photograph: Ford Model T Touring. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:MHV_Ford_Model_T_01.jpg",
+    "id": "ford-model-t-exterior",
+    "vehicleId": "ford-model-t"
+  },
+  {
+    "path": "/media/tesla-model-s-plaid.webp",
+    "thumbnail": "/media/tesla-model-s-plaid-thumb.webp",
+    "caption": "Reference photograph: Tesla Model S Plaid. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Tesla_Model_S_au_salon_international_de_l'auto_de_Montréal_2018.jpg",
+    "id": "tesla-model-s-plaid-exterior",
+    "vehicleId": "tesla-model-s-plaid"
+  },
+  {
+    "path": "/media/porsche-911-993-turbo.webp",
+    "thumbnail": "/media/porsche-911-993-turbo-thumb.webp",
+    "caption": "Reference photograph: Porsche 993 Turbo. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:1998_Porsche_911_Turbo_993_Chassis_WP0ZZZ99ZWS370750_1.jpg",
+    "id": "porsche-911-993-turbo-exterior",
+    "vehicleId": "porsche-911-993-turbo"
+  },
+  {
+    "path": "/media/porsche-918-spyder.webp",
+    "thumbnail": "/media/porsche-918-spyder-thumb.webp",
+    "caption": "Reference photograph: Porsche 918 Spyder. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Porsche_918_Spyder_(Ank_kumar,_Infosys_Limited)_16.jpg",
+    "id": "porsche-918-spyder-exterior",
+    "vehicleId": "porsche-918-spyder"
+  },
+  {
+    "path": "/media/bmw-m3-e30.webp",
+    "thumbnail": "/media/bmw-m3-e30-thumb.webp",
+    "caption": "Reference photograph: BMW M3 (E30). Pictured year or trim may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:BMW_M3_(E30).jpg",
+    "id": "bmw-m3-e30-exterior",
+    "vehicleId": "bmw-m3-e30"
+  },
+  {
+    "path": "/media/honda-nsx-na1.webp",
+    "thumbnail": "/media/honda-nsx-na1-thumb.webp",
+    "caption": "Reference photograph: Honda NSX NA1. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Moscow_car_show_2025-08-03_Honda_NSX_1990_03.jpg",
+    "id": "honda-nsx-na1-exterior",
+    "vehicleId": "honda-nsx-na1"
+  },
+  {
+    "path": "/media/mclaren-f1.webp",
+    "thumbnail": "/media/mclaren-f1-thumb.webp",
+    "caption": "Reference photograph: 1996 McLaren F1. Pictured year or trim may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:1996_McLaren_F1.jpg",
+    "id": "mclaren-f1-exterior",
+    "vehicleId": "mclaren-f1"
+  },
+  {
+    "path": "/media/lotus-emira-v6.webp",
+    "thumbnail": "/media/lotus-emira-v6-thumb.webp",
+    "caption": "Reference photograph: Lotus Emira. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Lotus_Emira,_Auto_2025,_Zurich_(20251029-P1074561).jpg",
+    "id": "lotus-emira-v6-exterior",
+    "vehicleId": "lotus-emira-v6"
+  },
+  {
+    "path": "/media/land-rover-defender-90.webp",
+    "thumbnail": "/media/land-rover-defender-90-thumb.webp",
+    "caption": "Reference photograph: 2001 Land Rover Defender 90 County Td5 (4615084745). Pictured year or trim may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:2001_Land_Rover_Defender_90_County_Td5_(4615084745).jpg",
+    "id": "land-rover-defender-90-exterior",
+    "vehicleId": "land-rover-defender-90"
+  },
+  {
+    "path": "/media/alpine-a110.webp",
+    "thumbnail": "/media/alpine-a110-thumb.webp",
+    "caption": "Reference photograph: Alpine A110 2018. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Alpine_A110_Pure_Genf_2018.jpg",
+    "id": "alpine-a110-exterior",
+    "vehicleId": "alpine-a110"
+  },
+  {
+    "path": "/media/hyundai-ioniq5-n.webp",
+    "thumbnail": "/media/hyundai-ioniq5-n-thumb.webp",
+    "caption": "Reference photograph: Hyundai Ioniq 5 N. Pictured trim, year, or market may differ from the indexed specification.",
+    "type": "exterior",
+    "file": "File:Hyundai_ioniq_5_N.jpg",
+    "id": "hyundai-ioniq5-n-exterior",
+    "vehicleId": "hyundai-ioniq5-n"
+  }
+]
